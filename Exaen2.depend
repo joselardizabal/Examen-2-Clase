@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1411081853 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/Evaluador.cpp
+	"Evaluador.h"
+
+1411082190 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/Evaluador.h
+	<iostream>
+	<list>
+	<list>
+	"NodoBinario.h"
+	"NodoTrinario.h"
+	"NodoNario.h"
+
+1411082209 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/main.cpp
+	"Evaluador.h"
+	<iostream>
+	<list>
+	"NodoBinario.h"
+	"NodoTrinario.h"
+	"NodoNario.h"
+
+1411082035 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/NodoBinario.h
+
+1411082059 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/NodoTrinario.h
+
+1411082182 /home/turupawn/Projects/Codeblocks/Clases/Progra3/Examen2/Examen2/NodoNario.h
+	<list>
+
+1411089666 source:/home/joselardi/Downloads/ExamenClase /Evaluador.cpp
+	"Evaluador.h"
+
+1411086647 /home/joselardi/Downloads/ExamenClase /Evaluador.h
+	<iostream>
+	<list>
+	<list>
+	"NodoBinario.h"
+	"NodoTrinario.h"
+	"NodoNario.h"
+
+1411086647 /home/joselardi/Downloads/ExamenClase /NodoBinario.h
+
+1411086647 /home/joselardi/Downloads/ExamenClase /NodoTrinario.h
+
+1411087919 /home/joselardi/Downloads/ExamenClase /NodoNario.h
+	<list>
+
+1411091330 source:/home/joselardi/Downloads/ExamenClase /main.cpp
+	"Evaluador.h"
+	<iostream>
+	<list>
+	"NodoBinario.h"
+	"NodoTrinario.h"
+	"NodoNario.h"
+
